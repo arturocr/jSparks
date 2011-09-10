@@ -24,7 +24,7 @@ jSparks is a small jQuery plugin that adds animated sparks to your website!
 
 jSparks has been tested to work with jQuery versions 1.4+ in IE6+, FF3+, Safari 4+, Chrome 6+, and Opera 11+. Other browsers may work fine - I guess (if works on IE6, should work in any other).
 
-If find any kind of problem, please open an issue and include the browser used, operating system, and description of the problem.
+If you find any kind of problem, please open an issue and include the browser used, operating system, and description of the problem.
 
 If you want to make any suggestions to make better this little buddy, please send me an email (arturo025@gmail.com).
 
